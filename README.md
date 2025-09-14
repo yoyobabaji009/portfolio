@@ -47,8 +47,8 @@ Hi! I’m **PuskarDas** 👋
 
 ## 📫 Contact
 - GitHub: https://github.com/your-username
-- LinkedIn: https://linkedin.com/in/your-linkedin
-- Email: your-email@example.com
+- LinkedIn: www.linkedin.com/in/puskar6
+- Email: yoyobabaji009@gmail.com
 
 
 ---
