@@ -38,7 +38,7 @@ Hi! I’m **PuskarDas** 👋
 
 ## 🔭 Current Status
 - Projects: _none yet — adding soon_
-- Certifications: _none yet — planned: TryHackMe paths, HTB, Google Cybersecurity_
+- Certifications: Oracle Cloud Infrastructure 2025, Cybersecurity Fundamentals,McKinsey Forward Program.
 - Learning: Organized by year → month under `learning/` (see `learning/README.md`)
 
 
@@ -48,7 +48,7 @@ Hi! I’m **PuskarDas** 👋
 ## 📫 Contact
 - GitHub: https://github.com/yoyobabaji009
 - LinkedIn: www.linkedin.com/in/puskar6
-- Email: yoyobabaji009@gmail.com
+- Email: puskar.das.official06@gmail.com
 
 
 ---
