@@ -37,7 +37,7 @@ Hi! I’m **PuskarDas** 👋
 
 
 ## 🔭 Current Status
-- Projects: _none yet — adding soon_
+- Projects: Working on
 - Certifications: Oracle Cloud Infrastructure 2025, Cybersecurity Fundamentals,McKinsey Forward Program.
 - Learning: Organized by year → month under `learning/` (see `learning/README.md`)
 
