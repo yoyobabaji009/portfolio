@@ -37,7 +37,7 @@ Hi! I’m **PuskarDas** 👋
 
 
 ## 🔭 Current Status
-- Projects: Working on
+- Projects: Working on Multi-threaded Network Port Scanner (in C) & Smart Traffic Predictor
 - Certifications: Oracle Cloud Infrastructure 2025, Cybersecurity Fundamentals,McKinsey Forward Program.
 - Learning: Organized by year → month under `learning/` (see `learning/README.md`)
 
