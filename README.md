@@ -46,7 +46,7 @@ Hi! I’m **PuskarDas** 👋
 
 
 ## 📫 Contact
-- GitHub: https://github.com/yoyobabaji009
+- GitHub: https://github.com/yoyobabaji009/portfolio
 - LinkedIn: www.linkedin.com/in/puskar6
 - Email: puskar.das.official06@gmail.com
 
