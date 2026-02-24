@@ -1,3 +1,3 @@
 [submodule "project/GhostScanner"]
-	path = project/GhostScanner
+	path = projects/project/GhostScanner
 	url = https://github.com/yoyobabaji009/GhostScanner.git
