@@ -12,12 +12,11 @@ Hi! I’m **PuskarDas** 👋
 
 ---
 
-
 ## 📌 Quick Links
-- **Learning Journey:** `learning/`
-- **Projects:** `projects/` (Featured: GhostScanner)
-- **Certifications:** `certifications/` (badges & PDFs)
-- **Resume:** `resume/`
+- **[Learning Journey](./learning/)**
+- **[Projects](./projects/)**
+- **[Certifications](./certifications/)**
+- **[Resume](./resume/)**
 
 
 ---
