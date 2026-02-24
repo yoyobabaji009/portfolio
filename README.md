@@ -7,7 +7,7 @@ Hi! I’m **PuskarDas** 👋
 🎓 Student | Exploring all fields of Cybersecurity (Ethical Hacking, Network Security, Cloud Security, Application Security, Incident Response)
 
 
-💡 I learn by doing: CTFs, labs, guided courses, and notes. This repo is my public portfolio and learning log.
+💡 I learn by doing:CTFs, labs, building security tools, and deep-diving into systems logic. This repo is my public portfolio and learning log where I document my journey across all domains of cybersecurity.
 
 
 ---
@@ -15,7 +15,7 @@ Hi! I’m **PuskarDas** 👋
 
 ## 📌 Quick Links
 - **Learning Journey:** `learning/`
-- **Projects:** `projects/` (mini-projects & labs)
+- **Projects:** `projects/` (Featured: GhostScanner)
 - **Certifications:** `certifications/` (badges & PDFs)
 - **Resume:** `resume/`
 
@@ -37,7 +37,7 @@ Hi! I’m **PuskarDas** 👋
 
 
 ## 🔭 Current Status
-- Projects: Working on Multi-threaded Network Port Scanner (in C) & Smart Traffic Predictor
+- Projects:Developed **GhostScanner**, a fully functional, high-performance C-based port scanner; currently developing an AI-based traffic management system.
 - Certifications: Oracle Cloud Infrastructure 2025, Cybersecurity Fundamentals,McKinsey Forward Program.
 - Learning: Organized by year → month under `learning/` (see `learning/README.md`)
 
@@ -54,4 +54,4 @@ Hi! I’m **PuskarDas** 👋
 ---
 
 
-*Last updated: 2025-09-14*
+
